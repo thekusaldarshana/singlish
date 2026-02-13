@@ -113,5 +113,5 @@ ROSL 1.0 © [Remeinium Siyabasa Labs](https://labs.remeinium.com)
 ---
 
 <div align="center">
-  <p>Built with ❤️ for the Sri Lankan Developer Community</p>
+  <p>Built with ❤️ for the Sinhala NLP Community</p>
 </div>

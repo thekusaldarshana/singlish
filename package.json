@@ -1,6 +1,6 @@
 {
   "name": "@siyabasa/singlish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deterministic Singlish-to-Sinhala transliteration engine with phonetic precision and zero-latency IME.",
   "type": "module",
   "sideEffects": [
