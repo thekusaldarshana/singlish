@@ -1,5 +1,5 @@
 {
-  "name": "@thekusaldarshana/singlish",
+  "name": "@siyabasa/singlish",
   "version": "1.0.2",
   "description": "Industry-grade Singlish to Sinhala IME Library",
   "main": "dist/index.js",
