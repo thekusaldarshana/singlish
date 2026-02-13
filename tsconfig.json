@@ -10,6 +10,13 @@
     "forceConsistentCasingInFileNames": true,
     "jsx": "react"
   },
-  "include": ["."],
-  "exclude": ["node_modules", "dist", "docs", "**/*.test.ts"]
+  "include": [
+    "*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "docs",
+    "**/*.test.ts"
+  ]
 }

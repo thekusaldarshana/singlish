@@ -21,6 +21,10 @@ export {
 export { useSinglishConverter } from './hooks';
 
 
+export { createAutoAttach } from './auto-attach';
+export { createUIToggle } from './ui-toggle';
+
+
 export { SinglishIME, resolveBuffer } from './ime-engine';
 export type { IMEState, ResolveResult } from './ime-engine';
 
@@ -31,5 +35,9 @@ export type {
     SinglishTextareaInputProps,
     UseSinglishConverterOptions,
     UseSinglishConverterReturn,
+    AutoAttachOptions,
+    AutoAttachInstance,
+    UIToggleOptions,
+    UIToggleInstance,
 } from './types';
 
