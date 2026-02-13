@@ -1,18 +1,5 @@
-# Dependencies
-node_modules/
-.pnpm-store/
-
-# Build outputs
-dist/
-lib/
-out/
-
-# IDE / System
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
 *:Zone.Identifier
+*.md
 node_modules/
 .next/
 docs/node_modules/
