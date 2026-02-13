@@ -1,3 +1,5 @@
+The @siyabasa/singlish uses Sinhala PHONETIC method introduced by Helakuru.
+
 අ - a
 ආ - aa
 ඇ - A
