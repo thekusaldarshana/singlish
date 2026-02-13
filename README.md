@@ -1,4 +1,4 @@
-@siyabasa/singlish
+# @siyabasa/singlish
 
 A deterministic, high-performance transliteration engine for Singlish (Romanized Sinhala) with phonetic precision and zero-latency IME support. Built for the modern web by **Remeinium Siyabasa Labs**.
 
@@ -124,7 +124,7 @@ React hook that returns spreadable input props (`value`, `onChange`, `onKeyDown`
 
 ## License
 
-ROSL 1.0 © [Remeinium Siyabasa Labs](https://labs.remeinium.com)
+ROSL 1.0 © [Remeinium Siyabasa Labs](https://labs.remeinium.com/siyabasa)
 
 ---
 
