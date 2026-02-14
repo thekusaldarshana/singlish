@@ -106,10 +106,10 @@ We acknowledge and credit Helakuru for their innovation in establishing this now
 > [Read more](https://facts.helakuru.lk/sinhala-typing/phonetic)
 
 - **Short vowels**: `a` (අ), `i` (ඉ), `u` (උ), `e` (එ), `o` (ඔ)
-- **Long vowels**: Double the letter (`aa` -> ආ, `ii` -> ඊ)
-- **Consonants**: Standard mappings (`k` -> ක, `g` -> ග)
-- **Aspirated (Mahaprana)**: Add `h` (`kh` -> ඛ, `bh` -> භ)
-- **Retroflex (Murdhaja)**: Capitalize (`T` -> ට, `D` -> ඩ, `N` -> ණ)
+- **Long vowels**: Double the letter (`aa` -> ආ, `ii` -> ඊ or `U` -> ඌ, `O` -> ඕ) except `A` for ඇ
+- **Consonants**: Standard mappings (`ka` -> ක, `ga` -> ග)
+- **Aspirated (Mahaprana)**: Add `h` (`kha` -> ඛ, `bha` -> භ)
+- **Retroflex (Murdhaja)**: Capitalize (`La` -> ළ, `Na` -> ණ)
 
 ## API Reference
 
@@ -124,7 +124,7 @@ React hook that returns spreadable input props (`value`, `onChange`, `onKeyDown`
 
 ## License
 
-ROSL 1.0 © [Remeinium Siyabasa Labs](https://labs.remeinium.com/siyabasa)
+Apache-2.0
 
 ---
 
